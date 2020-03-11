@@ -1,0 +1,2 @@
+# gamenicky
+Nickys bot
